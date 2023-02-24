@@ -12,7 +12,7 @@ This bot also checks the next month, so it will find appointments in the future 
 2. Install gems with
 `gem install watir && gem install telegram-bot`
 
-3. Run with `ruby burgerbot.rb`
+3. Run with `ruby buergerbot.rb`
 
 Note: bot pauses when it finds something.
 
