@@ -1,4 +1,4 @@
-# burgerbot
+# Bürgerbot
 
 Checks for free appointments in Berlin germany's citizens office and notifies via telegram.
 
