@@ -1,5 +1,8 @@
 # burgerbot
 
+Checks for free appointments in Berlin germany's citizens office and notifies via telegram.
+
+
 This bot also checks the next month, so it will find appointments in the future as well. 
 
 ## How to run:
