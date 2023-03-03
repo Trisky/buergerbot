@@ -1,5 +1,5 @@
 #!/usr/bin/env ruby
-# gem install watir && gem install telegram-bot && ruby burgerbot.rb
+# gem install watir && gem install telegram-bot && gem install dotenv && ruby burgerbot.rb
 require 'watir'
 require 'telegram/bot'
 require 'dotenv'

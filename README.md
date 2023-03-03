@@ -10,7 +10,7 @@ This bot also checks the next month, so it will find appointments in the future 
 1. Add `TELEGRAM_CHAT_ID=yyy` and `TELEGRAM_BOT_ID=xxx` to a `.env` file.
 
 2. Install gems with
-`gem install watir && gem install telegram-bot`
+`gem install watir && gem install telegram-bot && gem install dotenv `
 
 3. Run with `ruby buergerbot.rb`
 
